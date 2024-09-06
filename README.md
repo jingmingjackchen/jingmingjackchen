@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**jingmingjackchen/jingmingjackchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Jingming Chen**. You can also call me **Jack**.  
 
-Here are some ideas to get you started:
+I'm a graduate student at the **University of Illinois Urbana-Champaign (UIUC)** doing a master's in computer science, and I was previously at **New York University (NYU)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My **research interests** include **AI/ML** and **computer vision (CV)**.
+
+I don't really have any public repos at the moment, but stay tuned!  
+
+## Contacts:
+* [LinkedIn](https://www.linkedin.com/in/jingmingjchen/)
+* [Instagram](https://www.instagram.com/notjaack/)
+* [Email](mailto:jc166@illinois.edu)
+
+Please feel free to reach out to me!
