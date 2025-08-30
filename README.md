@@ -4,7 +4,7 @@ Hi, I'm **Jingming Chen**. You can also call me **Jack**.
 
 I'm a graduate student at the **University of Illinois Urbana-Champaign (UIUC)** doing a master's in computer science, and I was previously at **New York University (NYU)**.  
 
-My **research interests** include **computer vision (CV)**, **natural language processing (NLP)**, and applications of **AI/ML**.
+My **research interests** are topics relating to **large language models (LLMs)**, specifically LLM reasoning, agents, and more.
 
 I don't really have any public repos at the moment, but stay tuned!  
 
